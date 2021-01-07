@@ -1,5 +1,6 @@
 # wincust
-WinCust is a FOSS Windows Customizer that is a project for myself to work on. Be careful while using this, as it can cause your PC to not boot up or for it to be unstable.
+WinCust is a FOSS Windows Customizer that is a project for myself to work on. 
+Be careful while using this, as it can cause your PC to not boot up or for it to be unstable.
 -
 # How do I build WinCust from source?
 
