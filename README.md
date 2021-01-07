@@ -1,7 +1,7 @@
 # wincust
 WinCust is a FOSS Windows Customizer that is a project for myself to work on. 
 -
-Back up your computer before applying any themes.
+Make a system restore point of your computer before applying any themes.
 -
 # How do I build WinCust from source?
 
