@@ -27,6 +27,7 @@ namespace WinCust
             InitializeComponent();
 
 
+            Ver.Content = "Version " + File.ReadAllText(@"C:\Program Files\wincust\ver.txt");
 
             if (Directory.Exists(@"C:\Program Files\wincust"))
             {

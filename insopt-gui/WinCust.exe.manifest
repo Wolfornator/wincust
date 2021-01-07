@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WinCust.exe" size="11224">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WinCust.exe" size="11736">
       <assemblyIdentity name="WinCust" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>O2xdfUQoUFd72pKvIkTLj2gmAqa2jD1lmaCkFKku3G8=</dsig:DigestValue>
+        <dsig:DigestValue>XO+s4/WAJgx/1T5zUTdt/jGaNpAvWwUcWLt0Wl23MHI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
